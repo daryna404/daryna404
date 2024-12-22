@@ -36,7 +36,7 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 - <a href="https://github.com/daryna404/Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems/blob/main/README.md">Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems</a>
 
 ## Policies
-- <a href="https://github.com/daryna404/Risk-Management/blob/main/Risk%20Management.pdf">Risk Management</a>
+- <a href="https://github.com/daryna404/Policies">Policies</a>
 
 
 ## Suricata
