@@ -35,18 +35,29 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 - <a href="https://github.com/daryna404/Installing-Using-and-Blocking-Malware-Backdoors">Installing-Using-and-Blocking-Malware-Backdoors</a>
 - <a href="https://github.com/daryna404/Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems/blob/main/README.md">Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems</a>
 
-## Policies
+## GRC
 - <a href="https://github.com/daryna404/Policies">Policies</a>
+- <a href="https://github.com/daryna404/NIST-800-53-project/tree/main">NIST-800-53-project</a>
+- <a href="https://github.com/daryna404/ISO-27001-Compliance-Audit-Project">ISO-27001-Compliance-Audit-Project</a>
+
+## SIEM
+- <a href="https://github.com/daryna404/Splunk-Alerts-lab">Splunk-Alerts-lab</a>
+- <a href="https://github.com/daryna404/THM-Servidae-Log-Analysis-in-ELK">THM-Servidae-Log-Analysis-in-ELK</a>
+- <a href="https://github.com/daryna404/THM-Incident-Response-Process">THM-Incident-Response-Process</a>
+
 
 
 ## Suricata
 - <a href="https://github.com/daryna404/Suricata-Basics/blob/main/README.md">Suricata Basics</a>
 - <a href="https://github.com/daryna404/Suricata-IDS-Rules/blob/main/README.md">Suricata-IDS-Rules</a>
 
+
 ## Firewall
 - <a href="https://github.com/daryna404/FortiGate-VM-Firewall-Configuration-Lab/blob/main/README.md">FortiGate Firewall Configuration</a>
 
 ## OWASP Top 10 Challenges
+
+**OWASP Top 10 Overview** <a href="https://github.com/daryna404/THM-OWASP-Top-10-/blob/main/README.md">THM-OWASP-Top-10</a>
 
 - **OWASP - 1: Broken Access Control**:
     - **Path Traversal:** <a href="https://github.com/daryna404/Path-Traversal-OWASP-Challenge/blob/main/README.md">Path Traversal</a>
